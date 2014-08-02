@@ -1,0 +1,46 @@
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\bin\Debug\Akant.exe.config
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\bin\Debug\Akant.exe
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\bin\Debug\Akant.pdb
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\obj\Debug\Akant.csprojResolveAssemblyReference.cache
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\obj\Debug\Akant.Form1.resources
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\obj\Debug\Akant.Properties.Resources.resources
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\obj\Debug\Akant.csproj.GenerateResource.Cache
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\obj\Debug\Akant.exe
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\obj\Debug\Akant.pdb
+c:\users\physics1\documents\visual studio 2012\Projects\Akant\Akant\obj\Debug\Akant.Entry.resources
+C:\Users\physics1\documents\visual studio 2012\Projects\Akant\Akant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\physics1\documents\visual studio 2012\Projects\Akant\Akant\bin\Debug\Newtonsoft.Json.xml
+C:\Users\physics1\documents\visual studio 2012\Projects\Akant\Akant\obj\Debug\Akant.Progress.resources
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\bin\Debug\Akant.exe.config
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.exe
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.pdb
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.Entry.resources
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.Form1.resources
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.Properties.Resources.resources
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.csproj.GenerateResource.Cache
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\bin\Debug\Akant.exe
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\bin\Debug\Akant.pdb
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.UserDetails.resources
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\bin\Debug\Akant.exe.manifest
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\bin\Debug\Akant.application
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.exe.manifest
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.application
+C:\Users\Akash\Documents\Visual Studio 2013\Projects\Akant\Akant\obj\Debug\Akant.csprojResolveAssemblyReference.cache
+D:\RV-Activator-CloudNew\Akant\bin\Debug\Akant.exe.config
+D:\RV-Activator-CloudNew\Akant\bin\Debug\Akant.exe.manifest
+D:\RV-Activator-CloudNew\Akant\bin\Debug\Akant.application
+D:\RV-Activator-CloudNew\Akant\bin\Debug\Akant.exe
+D:\RV-Activator-CloudNew\Akant\bin\Debug\Akant.pdb
+D:\RV-Activator-CloudNew\Akant\bin\Debug\Newtonsoft.Json.dll
+D:\RV-Activator-CloudNew\Akant\bin\Debug\Newtonsoft.Json.xml
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.Entry.resources
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.Form1.resources
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.Properties.Resources.resources
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.UserDetails.resources
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.csproj.GenerateResource.Cache
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.exe.manifest
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.application
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.exe
+D:\RV-Activator-CloudNew\Akant\obj\Debug\Akant.pdb

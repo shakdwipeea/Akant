@@ -4,14 +4,14 @@
   <description asmv2:publisher="akash" asmv2:product="akant" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" minimumRequiredVersion="1.0.0.1" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Akant.exe.manifest" size="4811">
+    <dependentAssembly dependencyType="install" codebase="Akant.exe.manifest" size="6825">
       <assemblyIdentity name="Akant.exe" version="1.0.0.5" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>2MZ6qmmiECoJ8dWMAtPfUx7/e8M=</dsig:DigestValue>
+        <dsig:DigestValue>GqL9q3czmD2KbH0PYUNfnebVS6A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

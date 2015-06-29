@@ -55,7 +55,7 @@ namespace Akant
                     metroProgressBar1.Visible = false;
 
                     this.Hide();
-                    var postForm = new PostActivate();
+                    var postForm = new PostActivate(res);
                     postForm.ShowDialog();
                     this.Close();
                 }

@@ -11,9 +11,15 @@ namespace Akant
 {
     public partial class PostActivate : MetroForm
     {
-        public PostActivate()
+        public PostActivate(Response res)
         {
+           
             InitializeComponent();
+            String license = res.trial == 1 ? "Trial" : "Full";
+
+            metroLabel1.Text = "Congrats!! \n  " + res.software.ToUpper() +
+                " Software has been registered \n on this computer. \n " + "This is a " + license.ToUpper() + " licensed software. \n" +
+                "All the best. \n";
         }
 
         private void PostActivate_Load(object sender, EventArgs e)

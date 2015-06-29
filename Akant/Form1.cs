@@ -68,7 +68,7 @@ namespace Akant
                     {
                         //MessageBox.Show(key);
                         res = Network.sendData(uname, key, bios);
-                        //MessageBox.Show(res);
+                        MessageBox.Show(res);
                         t.Abort();
                         try1 = 1;
                     }
@@ -181,6 +181,7 @@ namespace Akant
                     {
                         
                         res = Network.sendData(req);
+                        MessageBox.Show(res);
                         try2 = 1;
                         t.Abort();
                     }
@@ -437,34 +438,3 @@ namespace Akant
 }
 
 
-
-/* 
- * This was in btn1.click
- * 
- * if (checkFirstTime())
-           {
-
-               if (checkRegistry())
-               {
-                   regular();
-               }
-               else
-               {
-                   new Entry().ShowDialog();
-               }
-           }
-           else
-           {
-               //MessageBox.Show("Well This has been used earlier");
-               //System.Environment.Exit(0);
-               if (checkRegistry())
-               {
-                   regular();
-               }
-               else
-               {
-                   MessageBox.Show("Authentication failed", "error", System.Windows.Forms.MessageBoxButtons.OK, System.Windows.Forms.MessageBoxIcon.Error);
-                   new Entry().ShowDialog();
-               }
-
-           }*/

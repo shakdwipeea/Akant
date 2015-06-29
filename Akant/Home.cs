@@ -40,7 +40,7 @@ namespace Akant
 
                 if (res.code == 200)
                 {
-                    metroLabel4.Text = "Saving to registry";
+                    metroLabel4.Text = "Saving to registry.";
                     try
                     {
                         saveToRegistry(res);

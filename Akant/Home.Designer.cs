@@ -36,6 +36,7 @@
             this.metroTextBox3 = new MetroFramework.Controls.MetroTextBox();
             this.metroButton1 = new MetroFramework.Controls.MetroButton();
             this.metroProgressBar1 = new MetroFramework.Controls.MetroProgressBar();
+            this.metroLabel4 = new MetroFramework.Controls.MetroLabel();
             this.SuspendLayout();
             // 
             // metroLabel1
@@ -116,18 +117,28 @@
             // 
             // metroProgressBar1
             // 
-            this.metroProgressBar1.Location = new System.Drawing.Point(35, 250);
+            this.metroProgressBar1.Location = new System.Drawing.Point(35, 264);
             this.metroProgressBar1.Name = "metroProgressBar1";
             this.metroProgressBar1.ProgressBarStyle = System.Windows.Forms.ProgressBarStyle.Marquee;
             this.metroProgressBar1.Size = new System.Drawing.Size(508, 23);
             this.metroProgressBar1.TabIndex = 7;
             this.metroProgressBar1.Visible = false;
             // 
+            // metroLabel4
+            // 
+            this.metroLabel4.AutoSize = true;
+            this.metroLabel4.Location = new System.Drawing.Point(35, 230);
+            this.metroLabel4.Name = "metroLabel4";
+            this.metroLabel4.Size = new System.Drawing.Size(136, 19);
+            this.metroLabel4.TabIndex = 8;
+            this.metroLabel4.Text = "Enter valid credentials";
+            // 
             // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(624, 296);
+            this.Controls.Add(this.metroLabel4);
             this.Controls.Add(this.metroProgressBar1);
             this.Controls.Add(this.metroButton1);
             this.Controls.Add(this.metroTextBox3);
@@ -154,6 +165,7 @@
         private MetroFramework.Controls.MetroTextBox metroTextBox3;
         private MetroFramework.Controls.MetroButton metroButton1;
         private MetroFramework.Controls.MetroProgressBar metroProgressBar1;
+        private MetroFramework.Controls.MetroLabel metroLabel4;
 
     }
 }

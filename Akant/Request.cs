@@ -18,5 +18,13 @@ namespace Akant
         public string software;
         public string bios;
         public string password;
+
+        public Request()
+        {
+            username = email = emailVerifier = phone = "default";
+            address = city = country = software = bios = password = "default";
+        }
+
+
     }
 }
